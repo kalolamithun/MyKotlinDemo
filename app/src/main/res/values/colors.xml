@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="Gray">#808080</color>
+
+    <color name="colorBackground">#F7F7F7</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorBorder">#E1E1E1</color>
+
+    <color name="colorTitle">#222222</color>
+    <color name="colorHint">#727C8E</color>
+    <color name="colorButton">#34475B</color>
+    <color name="colorLabel">#35485D</color>
+    <color name="colorLine">#D8D8D8</color>
+    <color name="colorStroke">#71C1AF</color>
+    <color name="colorToolBar">#E1F3EF</color>
+    <color name="colorSubLabel">#222222</color>
+    <color name="colorGreenButton">#0F9C7D</color>
+    <color name="colorError">#FB2B46</color>
+    <color name="colorLightGrey">#d3d4d5</color>
+    <color name="colorUnselectedColor">#E6EAF1</color>
+    <color name="colorUnselectedStroke">#C7CFDC</color>
+    <color name="colorGreyBG">#F6F7F8</color>
+    <color name="colorView">#E0E0E5</color>
+    <color name="colorOffWhite">#F9FCFC</color>
+    <color name="colorBlackTransparent">#BF000000</color>
+    <color name="scrTitle">#0F9C7D</color>
+    <color name="labelTextColor">#727C8E</color>
+    <color name="return_select">#0F9C7D</color>
+    <color name="return_un_select">#35485D</color>
+    <color name="colorDimGrey">#ced0d2</color>
+    <color name="colorMantee">#ff999999</color>
+
+
+
+</resources>
